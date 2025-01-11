@@ -1,4 +1,4 @@
-# Rootis
+# Rootix
 Rootix is a simple operating system created to help polish my knowledge of C and low-level system programming. Rootix is currently built with the RISC-V 32-bit architecture, uses QEMU for emulation and OpenSBI for system boot. The main goal of this project is to explore how operating systems work from the ground up, and it's just a fun way to dive into system-level development.
 
 
